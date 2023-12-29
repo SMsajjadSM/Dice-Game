@@ -46,7 +46,7 @@ const switchplayer = function () {
 let randomNumber = btnRoll.addEventListener('click', () => {
   if (playing) {
     randomNumber = Math.trunc(Math.random() * 6 + 1);
-    imgDice.src = `dice-${randomNumber}.png`;
+    imgDice.src = `./img/dice-${randomNumber}.png`;
 
     if (randomNumber != 1) {
       currentScore += randomNumber;
