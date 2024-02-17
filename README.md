@@ -5,8 +5,8 @@
 
 [Demo of Dice game](https://smsajjadsm.github.io/Dice-Game/)
 ===
-![plot](./IMG/1.png)
-![plot](./IMG/2.png)
+![plot](./img/1.png)
+![plot](./img/2.png)
 
 
 
