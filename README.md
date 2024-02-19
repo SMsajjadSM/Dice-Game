@@ -14,11 +14,10 @@
 
 ## Features
 
-- Different color theme for both dark and light mode
-- Ability to save data in local storage
-- Ability to save activities with date
-- Ability to search activities
-- The ability to change the information of each activity and save it again in local storage
+- Whoever reaches 100 points wins
+- New game start after each round
+- Save the dice score
+- The ability to roll dice and save your points
 
 
 
@@ -31,7 +30,7 @@
 First clone project ...
 
 ```sh
-https://github.com/SMsajjadSM/Todo-List.git
+https://github.com/SMsajjadSM/Dice-Game.git
 ```
 
 Install the dependencies and devDependencies
