@@ -1,6 +1,6 @@
 
 # Dice Game
-## This Game Have New Experience!!
+## This Game Have New Experience!!!
 
 
 [Demo of Dice game](https://smsajjadsm.github.io/Dice-Game/)
